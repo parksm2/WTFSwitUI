@@ -1,0 +1,6 @@
+framework module Pods_WTFSwiftUI {
+  umbrella header "Pods-WTFSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
