@@ -1,0 +1,3 @@
+[submodule "DesignSystem"]
+	path = DesignSystem
+	url = https://github.com/brandi-labs-ma-team/design-system-ios.git
